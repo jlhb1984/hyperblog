@@ -3,3 +3,5 @@ Tengo 39 años.
 Soy ingeniero electrónico.
 Quiero aprender Ciencia de datos.
 Vivio en Cali.
+
+ARDUINO tambíen.
